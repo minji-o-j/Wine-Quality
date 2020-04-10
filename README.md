@@ -1,5 +1,7 @@
-# Wine-Quality
 # 와인 등급 예측
+# 팀: 소믈리에
+
+- 팀원: 송찬훈([@smu201511454](https://github.com/smu201511454)), 오준영([@ohjuneyoung](https://github.com/ohjuneyoung)), 정민지([@minji-o-j](https://github.com/minji-o-j)), 최보원([@Caiman419](https://github.com/Caiman419))
 
 [진행 상황](#진행-상황)  
 
