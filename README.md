@@ -84,3 +84,10 @@
 
 #### 0529
 - 각자 SVM으로 구현한 정확도 발표, 웹 개발 모듈 선택
+
+#### 0604
+- SVC, LinearSVC, NuSVC, SVR, LinearSVR, NuSVR, RandomForest, ExtraTrees, GradientBoosting, SGDClassifier, SGDRegressor, KNNClassifier. KNNRegressor 등 실험해보고 결과 공유
+- 정확도가 가장 높은 최종 모델 선정
+- ppt, 최종 발표 역할 분담
+
+
