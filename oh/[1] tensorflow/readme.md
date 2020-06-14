@@ -1,0 +1,2 @@
+- code -> 아무런 processing 없이 돌린 코드
+- wrong -> 잘못된 생각으로 접근
